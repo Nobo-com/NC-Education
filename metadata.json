@@ -1,0 +1,8 @@
+{
+  "name": "NC Education - Instructor Portal",
+  "description": "Dashboard for instructors and institutions.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
